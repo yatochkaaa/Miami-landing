@@ -1,6 +1,6 @@
 # Miami landing page
 Landing page was implement according to [Figma design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3).
-- [DEMO LINK](https://yatochkaaa.github.io/layout_miami/)
+- [DEMO LINK](https://yatochkaaa.github.io/Miami-landing/)
 
 ## Description
 
